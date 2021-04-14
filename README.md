@@ -1,5 +1,3 @@
-# Dispositivo
-Ejemplo de cliente NodeMCU controlado por Firestore REST. de Fernando Izazaga Martínez
+# ARDUINO
+Ejemplo de cliente NodeMCU controlado por Firestore REST adan_gomez_reyes
 
-interactúa con
-https://zaza381026.github.io/PWA_IMF_51M/index.html
